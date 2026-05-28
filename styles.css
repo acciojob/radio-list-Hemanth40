@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+    .input {
+      accent-color: red;
+      color: red;
+    }
+
+    label {
+      font-size: 24px;
+      display: block;
+      margin: 20px 0;
+    }
